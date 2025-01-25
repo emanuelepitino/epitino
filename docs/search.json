@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "If you are curious about IO and ICB, here are some resources that might interest you:\n\nCD8+ T cell differentiation and dysfunction in cancer\nBrief description of the resource\nTCR signal strength defines distinct mechanisms of T cell dysfunction and cancer evasion\nIntratumoral immune triads are required for immunotherapy-mediated elimination of solid tumors"
+  },
+  {
+    "objectID": "resources.html#immune-oncology",
+    "href": "resources.html#immune-oncology",
+    "title": "Resources",
+    "section": "",
+    "text": "If you are curious about IO and ICB, here are some resources that might interest you:\n\nCD8+ T cell differentiation and dysfunction in cancer\nBrief description of the resource\nTCR signal strength defines distinct mechanisms of T cell dysfunction and cancer evasion\nIntratumoral immune triads are required for immunotherapy-mediated elimination of solid tumors"
+  },
+  {
+    "objectID": "resources.html#computational-biology",
+    "href": "resources.html#computational-biology",
+    "title": "Resources",
+    "section": "Computational Biology",
+    "text": "Computational Biology\nIf you are a PhD student, here are some useful resources for getting started with scRNAseq:\n\nOrchestrating Single Cell Analyses With Bioconductor"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I am Emanuele Pitino, PhD student in computational biology at Dr. Holger Heyn’s lab (CNAG, Barcelona), supported by a Marie Skłodowska-Curie Actions (MSCA) fellowship.\nMy research focuses on leveraging single-cell genomics to identify clinically relevant markers in Cancer and Autoimmune Disorders, with a special interest in immune checkpoint inhibition therapy.\nWith a MSc in Systems Immunology (Sorbonne Université - Paris), I specialize in scRNA-seq, deep scTCR-seq and spatial transcriptomics, combining a collaborative and critical-thinking approach.\nMy goal: to contribute advancing our understanding of clinically relevant immune responses."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "My Publications",
+    "section": "",
+    "text": "Latest publications:\n\nSTAMP: Single-Cell Transcriptomics Analysis and Multimodal Profiling through Imaging\nBioRxiv, 2024."
+  },
+  {
+    "objectID": "posters.html",
+    "href": "posters.html",
+    "title": "Scientific Posters",
+    "section": "",
+    "text": "Innovations in Single Cell Omics 2024\nThe landscape of Non-Small Cell Lung Cancer (NSCLC) treatment has been transformed by the advent of immunotherapies targeting the programmed death 1 (PD-1) and programmed death-ligand 1 (PD-L1) (M. Reck, 2022). The effectiveness of such treatments is limited by the lack of reliable biomarkers for predicting therapeutic responses (G. Morad, 2021).\nHere, we combined scRNA and deep TCR repertoire sequencing to explore clonal expansion in 15 NSCLC patients undergoing Immune Checkpoint Blockade (ICB) therapy (anti-PDL1)."
+  }
+]

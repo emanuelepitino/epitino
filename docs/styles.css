@@ -1,0 +1,28 @@
+/* css styles */
+/* Justify all text content */
+body {
+  text-align: left; /* Applies justification to the text */
+  margin: 0 auto; /* Centers the content if there’s extra horizontal space */
+  max-width: 1200px; /* Optional: Limits content width for readability */
+}
+
+/* Additional adjustments for lists */
+ul, ol {
+  text-align: left; /* Ensures lists are also justified */
+}
+
+/* General link styles */
+a {
+  color: #navy; /* Choose a custom color (e.g., tomato red) */
+  text-decoration: none; /* Remove the underline */
+  font-weight: bold; /* Make the text bold */
+}
+
+/* Link hover effect */
+a:hover {
+  color: #navy; /* Darker shade of the link color on hover */
+  text-decoration: underline; /* Add underline on hover */
+  transition: color 0.2s ease-in-out; /* Smooth transition for hover effect */
+}
+
+
